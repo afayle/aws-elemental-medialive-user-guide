@@ -12,7 +12,7 @@ There are two general scenarios for choosing a role, depending on whether your o
 ## Your Organization Has a Designated Administrator<a name="role-scenario-1"></a>
 
 Your organization might have an administrator who manages this service\. That administrator has likely set up one or more roles: 
-+ Ask the administrator or your manager which role to use\. Or if only one rule is listed in **Use existing role**, choose that role\. 
++ Ask the administrator or your manager which role to use\. Or if only one role is listed in **Use existing role**, choose that role\. 
 + If the only rule that is listed is **MediaLiveAccessRole**, choose that role\. In addition, if the **Update** button is displayed beside this role name, choose the button\. \(The button does not always appear, but whenever it does appear, choose it to refresh the role\.\)
 + If you want the selected ARN to appear first in the list next time, select **Remember ARN**\. 
 
